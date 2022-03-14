@@ -1,0 +1,17 @@
+Thu, 16 Dec 2021 14:03:39 api_data.py[line:70] INFO No available flights between FCO and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:03:44 api_data.py[line:60] INFO No available flights between EIN and WLG on day 2021-12-18.
+Thu, 16 Dec 2021 14:03:44 api_data.py[line:70] INFO No available flights between WLG and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:03:50 api_data.py[line:60] INFO No available flights between EIN and RAK on day 2021-12-18.
+Thu, 16 Dec 2021 14:03:52 api_data.py[line:70] INFO No available flights between RAK and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:03:57 api_data.py[line:60] INFO No available flights between EIN and DUB on day 2021-12-18.
+Thu, 16 Dec 2021 14:03:59 api_data.py[line:70] INFO No available flights between DUB and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:10 api_data.py[line:60] INFO No available flights between EIN and LAX on day 2021-12-18.
+Thu, 16 Dec 2021 14:04:12 api_data.py[line:70] INFO No available flights between LAX and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:17 api_data.py[line:60] INFO No available flights between EIN and PEK on day 2021-12-18.
+Thu, 16 Dec 2021 14:04:19 api_data.py[line:70] INFO No available flights between PEK and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:21 api_data.py[line:60] INFO No available flights between EIN and TRF on day 2021-12-18.
+Thu, 16 Dec 2021 14:04:22 api_data.py[line:70] INFO No available flights between TRF and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:29 api_data.py[line:70] INFO No available flights between MAD and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:34 api_data.py[line:60] INFO No available flights between EIN and VKO on day 2021-12-18.
+Thu, 16 Dec 2021 14:04:35 api_data.py[line:70] INFO No available flights between VKO and EIN on day 2021-12-25.
+Thu, 16 Dec 2021 14:04:36 main.py[line:44] INFO Pietje has no IATA code present
